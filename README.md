@@ -127,7 +127,7 @@ The application includes basic protection measures:
 | Firefox | ✅ | ✅ |
 | Safari  | ✅ | ✅ |
 | Edge    | ✅ | ✅ |
-| Oper
+| Oper    | ✅ | ✅ |
 
 
 
