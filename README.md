@@ -20,7 +20,7 @@ The system analyzes facial features and predicts emotions such as happy, angry, 
 
 ## 🚀 Demo
 
-![Emotion Detection Demo]([(https://unknownmeh.github.io/predictive_emotion_analysis/)])
+![Emotion Detection Demo] Link : https://unknownmeh.github.io/predictive_emotion_analysis/
 
 ## 🛠️ Technologies Used
 
